@@ -22,6 +22,9 @@ let schema = new Schema({
   },
   imgUrl: {
 
+  },
+  sold: {
+    type: Boolean
   }
 })
 
